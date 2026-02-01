@@ -1,6 +1,21 @@
-![Jonathan Adams – Data Analyst | Business Analyst | Business Intelligence](https://raw.githubusercontent.com/Adamsj25/Adamsj25/main/assets/banner.png)
+<div align="center">
 
----
+<img
+  src="https://raw.githubusercontent.com/Adamsj25/Adamsj25/main/assets/banner.png"
+  alt="Jonathan Adams Data Analytics Banner"
+  width="100%"
+/>
+
+<h2 style="margin-top:-90px; color:white; text-shadow:0 3px 8px rgba(0,0,0,0.7);">
+  Jonathan Adams
+</h2>
+
+<p style="color:#f0f0f0; margin-top:-5px; text-shadow:0 2px 6px rgba(0,0,0,0.7);">
+  Data Analyst | Business Analyst | Business Intelligence
+</p>
+
+</div>
+
 
 ### 👋 About Me
 Aspiring **Data Analyst / Business Analyst** with a foundation in **data management, analytics, and business intelligence**.  
