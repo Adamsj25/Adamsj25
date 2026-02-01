@@ -1,6 +1,6 @@
 <!-- Business Intelligence Engineering – Professional GitHub Profile README -->
 
-<h1 align="center">Jonathan Adams</h1>
+<h1 align="center">Jonathan L. Adams</h1>
 <p align="center"><b>Business Intelligence Engineer | Analytics Engineering | Cloud Data</b></p>
 
 <p align="center">
