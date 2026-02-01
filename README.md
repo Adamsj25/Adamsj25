@@ -1,34 +1,7 @@
-<div align="center" style="
-  background-image:
-    linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
-    url('https://raw.githubusercontent.com/Adamsj25/Adamsj25/main/assets/banner.png');
-  background-size: cover;
-  background-position: center;
-  padding: 70px 20px;
-  border-radius: 10px;
-">
+![Jonathan Adams – Data Analyst | Business Analyst | Business Intelligence](https://raw.githubusercontent.com/Adamsj25/Adamsj25/main/assets/banner.png)
 
-  <h2 style="
-    color: #ffffff;
-    margin: 0;
-    font-size: 36px;
-    font-weight: 700;
-    text-shadow: 0 3px 8px rgba(0,0,0,0.6);
-  ">
-    Jonathan Adams
-  </h2>
+### Turning data into actionable insights
 
-  <p style="
-    color: #e6e6e6;
-    margin-top: 10px;
-    font-size: 16px;
-    letter-spacing: 0.5px;
-    text-shadow: 0 2px 6px rgba(0,0,0,0.6);
-  ">
-    Data Analyst | Business Analyst | Business Intelligence
-  </p>
-
-</div>
 
 ---
 
