@@ -1,8 +1,5 @@
 ![Jonathan Adams – Data Analyst | Business Analyst | Business Intelligence](https://raw.githubusercontent.com/Adamsj25/Adamsj25/main/assets/banner.png)
 
-### Turning data into actionable insights
-
-
 ---
 
 ### 👋 About Me
