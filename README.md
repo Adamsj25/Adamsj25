@@ -109,8 +109,7 @@ Developed an end-to-end ETL workflow to prepare analytics-ready datasets.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamsj25&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamsj25&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamsj25&show_icons=true&hide_title=true" height="160" />
 </p>
 
 ---
