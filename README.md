@@ -6,7 +6,7 @@
 <p align="center">
   <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/jonathan-adams-a346622a0/)">LinkedIn</a> •
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:Adams.johnathonl@gmail.com">Email</a>
 </p>
 
 ---
