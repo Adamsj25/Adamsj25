@@ -4,7 +4,6 @@
 
 <h2 align="center">Jonathan L. Adams</h2>
 <p align="center"><b>Aspiring Data Analyst | BI and Reporting | SQL, Tableau, and Microsoft BI Tools</b></p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-adams-a346622a0/">LinkedIn</a> •
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
@@ -15,11 +14,11 @@
 
 ## About Me
 
-Currently completing school and preparing for an entry level **Data Analyst** or **BI Analyst** role.
+Currently completing school and preparing for an entry level Data Analyst or BI Analyst role.
 
-Experience includes troubleshooting failing ETL processes and working with the Microsoft BI stack, including **SSIS, SSRS, and SSAS**, with exposure to **data cube** development. Strong reporting background using **Microsoft Report Builder**, plus dashboard development in **Tableau**. Comfortable with **Excel** and **Smartsheet**, including **PivotTables** for analysis and tracking.
+Experience includes troubleshooting failing ETL processes and working with the Microsoft BI stack, including **SSIS, SSRS, and SSAS**, with exposure to **data cube** development. Strong reporting background using **Microsoft Report Builder**, plus dashboard development in **Tableau**. Comfortable with Excel and Smartsheet, including PivotTables for analysis and tracking.
 
-Actively learning **Power BI**, with a focus on data modeling and DAX. Programming experience includes **Python, C#, and C++**, with frequent use of **Jupyter Notebook** for analysis workflows.
+Actively learning **Power BI**, with a focus on data modeling and DAX. Programming experience includes Python, C#, and C++, with frequent use of **Jupyter Notebook** for analysis workflows.
 
 
 ---
