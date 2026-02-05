@@ -15,13 +15,12 @@
 
 ## About Me
 
-I recently finished school and I am working toward my first role as a **Data Analyst** or **BI Analyst**.
+Currently completing school and preparing for an entry level **Data Analyst** or **BI Analyst** role.
 
-I have experience troubleshooting failing ETL processes and working with the Microsoft BI stack, including **SSIS, SSRS, and SSAS**. I have built and worked with **data cubes**, and I create BI reports using **Microsoft Report Builder**. I also build dashboards in **Tableau** and use **Excel and Smartsheet** for tracking and analysis, including PivotTables.
+Experience includes troubleshooting failing ETL processes and working with the Microsoft BI stack, including **SSIS, SSRS, and SSAS**, with exposure to **data cube** development. Strong reporting background using **Microsoft Report Builder**, plus dashboard development in **Tableau**. Comfortable with **Excel** and **Smartsheet**, including **PivotTables** for analysis and tracking.
 
-I am still learning **Power BI** and improving my skills with data modeling and DAX.
+Actively learning **Power BI**, with a focus on data modeling and DAX. Programming experience includes **Python, C#, and C++**, with frequent use of **Jupyter Notebook** for analysis workflows.
 
-My programming experience includes **Python, C#, and C++**, and I use **Jupyter Notebook** for analysis and reporting workflows.
 
 ---
 
