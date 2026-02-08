@@ -71,7 +71,15 @@ Tools:
   - Jupyter Notebook
   - VS Code
 
-
-📜 **Certificate of Completion:**  
-[View Certificate](https://www.udemy.com/certificate/UC-1c02d5a2-c168-4c47-a78a-b84fe55ac0fd/)
+<section>
+  <h2>🎓 Certifications</h2>
+  <ul>
+    <li>
+      <strong>AWS Certified Cloud Practitioner (CLF-C02 – 2026)</strong><br>
+      Provider: Udemy<br>
+      <a href="https://www.udemy.com/certificate/UC-1c02d5a2-c168-4c47-a78a-b84fe55ac0fd/"
+         target="_blank">View Certificate</a>
+    </li>
+  </ul>
+</section>
 
