@@ -70,5 +70,8 @@ Tools:
   - Git & GitHub
   - Jupyter Notebook
   - VS Code
-## Certifcation
-https://www.udemy.com/certificate/UC-1c02d5a2-c168-4c47-a78a-b84fe55ac0fd/
+
+
+📜 **Certificate of Completion:**  
+[View Certificate](https://www.udemy.com/certificate/UC-1c02d5a2-c168-4c47-a78a-b84fe55ac0fd/)
+
