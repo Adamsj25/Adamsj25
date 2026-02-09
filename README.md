@@ -14,6 +14,7 @@
   <a href="mailto:Adams.johnathonl@gmail.com">Email</a>
 </p>
 
+
 ---
 
 ## About Me
@@ -30,6 +31,8 @@ I’m actively learning **Power BI**, focusing on **data modeling** and **DAX**.
 
 - **[AWS Certified Cloud Practitioner (CLF-C02 – 2026)](https://www.udemy.com/certificate/UC-1c02d5a2-c168-4c47-a78a-b84fe55ac0fd/)**  
   Provider: Udemy • [View Certificate](https://www.udemy.com/certificate/UC-1c02d5a2-c168-4c47-a78a-b84fe55ac0fd/)
+- **[Power BI Desktop - Beginners to Advanced level](https://www.udemy.com/certificate/UC-f5a8f8df-9550-4db4-b197-97508ae40f72/)**  
+  Provider: Udemy • [View Certificate](https://www.udemy.com/certificate/UC-f5a8f8df-9550-4db4-b197-97508ae40f72/).
 
 ---
 
