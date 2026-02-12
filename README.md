@@ -33,8 +33,10 @@ I’m actively learning **Power BI**, focusing on **data modeling** and **DAX**.
   Provider: Udemy • [View Certificate](https://www.udemy.com/certificate/UC-1c02d5a2-c168-4c47-a78a-b84fe55ac0fd/)
 - **[Power BI Desktop - Beginners to Advanced level](https://www.udemy.com/certificate/UC-f5a8f8df-9550-4db4-b197-97508ae40f72/)**  
   Provider: Udemy • [View Certificate](https://www.udemy.com/certificate/UC-f5a8f8df-9550-4db4-b197-97508ae40f72/).
+- **[ Advanced Python: Python packaging. Pip install your scripts!](https://www.udemy.com/certificate/UC-fe7128cf-86c5-410a-a1d6-f00049fcfb96/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)**  
+  Provider: Udemy • [View Certificate]( Advanced Python: Python packaging. Pip install your scripts!).
 
----
+ 
 
 ## Skills
 
