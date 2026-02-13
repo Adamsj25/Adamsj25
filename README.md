@@ -70,6 +70,7 @@ Programming:
   - Python
   - C#
   - C++
+  - R
 
 BI & Reporting:
   - Tableau
