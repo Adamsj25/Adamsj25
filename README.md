@@ -35,7 +35,8 @@ I’m actively learning **Power BI**, focusing on **data modeling** and **DAX**.
   Provider: Udemy • [View Certificate](https://www.udemy.com/certificate/UC-f5a8f8df-9550-4db4-b197-97508ae40f72/).
 - **[ Advanced Python: Python packaging. Pip install your scripts!](https://www.udemy.com/certificate/UC-fe7128cf-86c5-410a-a1d6-f00049fcfb96/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)**  
   Provider: Udemy • [View Certificate](https://www.udemy.com/certificate/UC-fe7128cf-86c5-410a-a1d6-f00049fcfb96/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com).
-
+- ** [Design and Implement a Data Warehouse: | SSIS | SSAS | SSRS](https://www.udemy.com/certificate/UC-4b81e08a-9c5b-4cd3-b151-fb464ed1a5a6/)**  
+  Provider: Udemy • [View Certificate](https://www.udemy.com/certificate/UC-4b81e08a-9c5b-4cd3-b151-fb464ed1a5a6/)
 
  
 
